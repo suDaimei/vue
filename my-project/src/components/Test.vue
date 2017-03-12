@@ -13,7 +13,7 @@
 
 <script>
 import Store from './store'
-console.log(Store)
+
 	export default{
 		name:'test',
 		data(){
